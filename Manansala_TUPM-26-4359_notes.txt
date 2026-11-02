@@ -1,0 +1,5 @@
+Student: Manansala
+Student ID: TUPM-26-4359
+Seed digit: 9
+ID sum: 29
+Verification value: 270

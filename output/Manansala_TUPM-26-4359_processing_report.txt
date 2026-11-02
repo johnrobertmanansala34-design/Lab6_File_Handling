@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Manansala
+Student ID: TUPM-26-4359
+Seed Digit: 9
+ID_SUM: 29
+Verification Value: 270
+Dataset Sample Size: 79
+Valid Records: 79
+Average Global Active Power: 3.951
+JSON File: Manansala_TUPM-26-4359_record.json
+Backup File: Manansala_TUPM-26-4359_record.csv
