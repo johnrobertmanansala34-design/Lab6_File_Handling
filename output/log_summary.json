@@ -1,0 +1,34 @@
+{
+    "records_processed": 1029,
+    "target_status_class": "3xx",
+    "records_in_target_class": 166,
+    "count_per_status_code": {
+        "200": 850,
+        "302": 145,
+        "304": 21,
+        "206": 8,
+        "404": 5
+    },
+    "five_most_requested_urls": [
+        [
+            "GET / HTTP/1.1",
+            46
+        ],
+        [
+            "POST /process.php HTTP/1.1",
+            36
+        ],
+        [
+            "GET /contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest HTTP/1.1",
+            34
+        ],
+        [
+            "GET /home.php HTTP/1.1",
+            9
+        ],
+        [
+            "GET /logout.php HTTP/1.1",
+            7
+        ]
+    ]
+}

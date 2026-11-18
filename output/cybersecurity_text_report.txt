@@ -1,0 +1,8 @@
+CYBERSECURITY INCIDENT REPORT - YEAR 2024
+==================================================
+Total Records Processed: 3000
+Incidents in Target Year: 0
+Total Financial Loss: $0.00 Million USD
+Average Financial Loss: $0.00 Million USD
+
+Attack Type Breakdown:
